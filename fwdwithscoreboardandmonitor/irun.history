@@ -1,7 +1,0 @@
-s1(20Nov2023:17:00:26):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
-s2(20Nov2023:17:01:26):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
-s3(20Nov2023:17:02:30):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
-s4(20Nov2023:17:03:37):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
-s5(20Nov2023:17:03:56):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
-s6(20Nov2023:17:06:12):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
-s7(20Nov2023:17:07:59):  irun defines.sv +access+rw +gui +nccoverage+all -sv 
